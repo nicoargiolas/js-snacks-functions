@@ -16,8 +16,6 @@ const saluti = nome => `Ciao ${nome}`;
 
 // Invoca la funzione qui e stampa il risultato in console
 
-// console.log(saluti(userName));
-
 console.log(saluti(userName));
 
 
